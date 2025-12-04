@@ -1,4 +1,4 @@
-## OPerating System :
+## Operating System :
 Bring up all the devices and provide a human interface.
 
 - Types :
